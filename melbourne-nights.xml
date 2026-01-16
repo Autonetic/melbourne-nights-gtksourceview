@@ -30,12 +30,12 @@ SOFTWARE.
 
 	<!-- Dracula colors -->
 	<color name="background" value="#0d1117"/>
-	<color name="current-line" value="#414868"/>
+	<color name="current-line" value="#303340"/>
 	<color name="selection" value="#24283b"/>
 	<color name="foreground" value="#a9b1d6"/>
 	<color name="comment" value="#565f89"/>
 	<color name="cyan" value="#00ffd9"/>
-	<color name="dark-cyan" value="#006657"/>
+	<color name="dark-cyan" value="#229b92"/>
 	<color name="blue" value="#0084ff"/>
 	<color name="green" value="#90f425"/>
 	<color name="orange" value="#ff5e00"/>
